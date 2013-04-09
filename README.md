@@ -38,8 +38,10 @@ Mode Neutral:
 
 
 BUGS:
+
     - Scrolling sometimes causes monitor to shut off and on. Happens in some other cases too
 TODO:
+
     - Implement Alt + TAB (and ALT+SHIFT+TAB) permissions
     - Fix Scrolling Bug
     - Typing mode currently only supports lowercase, and does not have a mapping for periods. Should look to Steam Big Picture Mode DaisyWheel UI for mappings
